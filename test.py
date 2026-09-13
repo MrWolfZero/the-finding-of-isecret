@@ -1,4 +1,0 @@
-WIDTH,HEIGHT=13,13
-
-print(range(WIDTH-1, WIDTH*HEIGHT, WIDTH))
-print((WIDTH*HEIGHT)-1)
